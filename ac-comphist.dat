@@ -1,0 +1,88 @@
+((("clojure-mode-hook" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("as" .
+   [1 0])
+  ("get-producer" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])
+  (":only" .
+   [1 0 0 0 0])
+  (":use" .
+   [1 0 0 0])
+  ("sane-indentation" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("indent-line" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("region-end" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("region" .
+   [1 0 0 0 0 0])
+  ("region-beginning" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("indent-region" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("region-active-p" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("indent" .
+   [1 0 0 0 0 0])
+  ("some" .
+   [1 0 0 0])
+  ("undo-tree-redo" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("js-mode-hook" .
+   [2 0 0 0 0 0 0 0 0 0 0 0])
+  ("back-to-indentation" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("end-of-line" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("use-region-p" .
+   [0 0 0 0 0 0 1 0 0 0 0 0])
+  ("proper-backspace" .
+   [1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("global-key-binding" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("delete-backward-char" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("delete-region" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("mark-active" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("if" .
+   [2 0])
+  ("interactive" .
+   [1 0 0 0 0 0 1 1 0 0 0])
+  ("kbd" .
+   [5 0 0])
+  ("global-set-key" .
+   [1 0 0 0 0 0 0 0 0 0 1 0 0 2])
+  ("electric-indent-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("js-mode" .
+   [1 0 0 0 0 0 0])
+  ("add-hook" .
+   [2 0 0 0 0 0 0 0])
+  ("a" .
+   [2])
+  ("app" .
+   [1 0 0])
+  ("i" .
+   [1])
+  ("defun" .
+   [4 0 0 0 0])
+  ("let" .
+   [2 0 0])
+  ("move-end-of-line" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("ace-jump-mode" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("kb" .
+   [1 0])
+  ("duplicate-line" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("nil" .
+   [2 0 0])
+  ("highlight-symbol" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("highlight-symbol-set" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("highlight-symbol-mode" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])))
