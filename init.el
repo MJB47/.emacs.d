@@ -256,9 +256,11 @@
 (toggle-word-wrap)
 
 (custom-set-faces
- (set-face-attribute 'neo-button-face      nil :height 80)
- (set-face-attribute 'neo-file-link-face   nil :height 80)
- (set-face-attribute 'neo-dir-link-face    nil :height 80)
- (set-face-attribute 'neo-header-face      nil :height 80)
- (set-face-attribute 'neo-expand-btn-face  nil :height 80)
+ (set-face-attribute 'neo-button-face      nil :height 90)
+ (set-face-attribute 'neo-file-link-face   nil :height 90)
+ (set-face-attribute 'neo-dir-link-face    nil :height 90)
+ (set-face-attribute 'neo-header-face      nil :height 90)
+ (set-face-attribute 'neo-expand-btn-face  nil :height 90)
  )
+
+(setq-default cursor-type 'bar)
