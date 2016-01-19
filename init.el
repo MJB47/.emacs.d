@@ -264,3 +264,5 @@
  )
 
 (setq-default cursor-type 'bar)
+
+(dtrt-indent-mode 1)
