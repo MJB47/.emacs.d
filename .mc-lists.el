@@ -6,6 +6,7 @@
         delete-region-or-back-char
         keyboard-escape-quit
         paredit-open-round
+        previous-buffer
         subword-right
         ))
 
