@@ -149,9 +149,10 @@
 (load "setup-js.el")
 
 (defun kill-other-buffers ()
-      "Kill all other buffers."
-      (interactive)
-      (mapc 'kill-buffer (delq (current-buffer) (buffer-list))))
+  "Kill all buffers not currently shown in a window somewhere."
+  (interactive)
+  (dolist (buf  (buffer-list))
+    (unless (get-buffer-window buf 'visible) (kill-buffer buf))))
 
 ;;; yasnippet
 ;;; should be loaded before auto complete so that they can work together
